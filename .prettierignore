@@ -1,0 +1,13 @@
+# operational files
+**/node_modules/*
+node_modules/
+# styles
+*.css
+*.js
+# build files
+dist
+build
+# don't lint test files
+*.test.tsx
+serviceWorker.ts
+src/static
